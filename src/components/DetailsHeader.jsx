@@ -1,3 +1,5 @@
+
+
 const DetailsHeader = () => (
   <div>DetailsHeader</div>
 );
